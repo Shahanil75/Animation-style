@@ -161,5 +161,7 @@ h1{
     width: 18px;
     margin: 0;
 }
-
+.hero{
+    background-image: url(images/background.png);
+}
  }
